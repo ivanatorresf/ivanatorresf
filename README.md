@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Ivan 
+#### This is my profile in which I have worked lately and in the projects that I have collaborated with
+This is my profile in which I have worked lately and in the projects that I have collaborated with
+![me](https://github.com/ivanatorresf/ivanatorresf/blob/a5484f22fa305ac87adbfd2345f3441b074d299e/Modern-Presentation.png)
 
-<!--
-**ivanatorresf/ivanatorresf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Self-taught programmer Eng. Support and lover of some sports: swimming, running and Boxing. I like to travel and know the corners of each place. Learning to live.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C# / Flutter / HTML / CSS / JS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/adriantorres71)  
+
