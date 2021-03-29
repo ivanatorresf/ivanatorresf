@@ -9,6 +9,9 @@ Self-taught programmer Eng. Support and lover of some sports: swimming, running 
 Skills: C# / Flutter / HTML / CSS / JS
 
 - 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Web development, 
+- 🌱 I’m currently learning mobile apps 
+- 👯 I’m looking to collaborate on new projects and looking to become a Freelancer  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/adriantorres71)  
