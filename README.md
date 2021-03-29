@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ivan 
 #### This is my profile in which I have worked lately and in the projects that I have collaborated with
-This is my profile in which I have worked lately and in the projects that I have collaborated with
+
 ![me](https://github.com/ivanatorresf/ivanatorresf/blob/a5484f22fa305ac87adbfd2345f3441b074d299e/Modern-Presentation.png)
 
 
