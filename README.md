@@ -6,7 +6,7 @@
 
 Self-taught programmer Eng. Support and lover of some sports: swimming, running and Boxing. I like to travel and know the corners of each place. Learning to live.
 
-Skills: C# / Flutter / HTML / CSS / JS
+Skills: C# / Flutter / HTML / CSS / JS / SQL / Trello / Git
 
 - 🔭 I’m currently working on this page. 
 - 🔭 I’m currently working on Web development, 
